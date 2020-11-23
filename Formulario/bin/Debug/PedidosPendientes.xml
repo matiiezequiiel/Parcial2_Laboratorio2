@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPedido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pedido>
+    <codigoPedido>OFG</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Doble</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Helado</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>Sed 3992</direccionDeEntrega>
+    <delivery>true</delivery>
+    <estadoPedido>Cola</estadoPedido>
+  </Pedido>
+  <Pedido>
+    <codigoPedido>UVH</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Triple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Panqueques</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>Sed 3393</direccionDeEntrega>
+    <delivery>true</delivery>
+    <estadoPedido>Cola</estadoPedido>
+  </Pedido>
+</ArrayOfPedido>

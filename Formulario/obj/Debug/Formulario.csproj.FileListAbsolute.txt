@@ -1,0 +1,24 @@
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.PantallaVentas.resources
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Formulario.exe
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Formulario.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\AguirreMatias2D_2P.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Persona.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Producto.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\AguirreMatias2D_2P.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Persona.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Producto.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.exe
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\obj\Debug\Formulario.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Metodos de extension.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Metodos de extension.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\LoremNET.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Archivos.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Excepciones.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Archivos.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Formulario\bin\Debug\Excepciones.pdb

@@ -1,0 +1,8 @@
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\bin\Debug\Metodos de extension.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\bin\Debug\Metodos de extension.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.csprojAssemblyReference.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.csproj.CoreCompileInputs.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\bin\Debug\LoremNET.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.csproj.CopyComplete

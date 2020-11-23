@@ -1,0 +1,12 @@
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\SQL.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\SQL.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\LoremNET.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\Metodos de extension.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\Producto.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\Metodos de extension.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\bin\Debug\Producto.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.csprojAssemblyReference.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.csproj.CopyComplete
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.pdb

@@ -1,0 +1,14 @@
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Consola.exe.config
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Consola.exe
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Consola.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\AguirreMatias2D_2P.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Persona.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Producto.dll
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\AguirreMatias2D_2P.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Persona.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\bin\Debug\Producto.pdb
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\obj\Debug\Consola.exe
+C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Consola\obj\Debug\Consola.pdb
