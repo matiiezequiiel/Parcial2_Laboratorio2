@@ -6,3 +6,11 @@ C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Excepciones\obj\Debug\Exc
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Excepciones\obj\Debug\Excepciones.pdb
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Excepciones\bin\Debug\LoremNET.dll
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Excepciones\obj\Debug\Excepciones.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\bin\Debug\LoremNET.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\obj\Debug\Excepciones.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Excepciones\obj\Debug\Excepciones.pdb

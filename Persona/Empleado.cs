@@ -96,7 +96,7 @@ namespace Persona
 
             }
 
-            //PedidoDB.InsertarPedido(pedidoPendiente);
+            PedidoDB.InsertarPedido(pedidoPendiente);
 
             this.prepararProximoPedido();
             

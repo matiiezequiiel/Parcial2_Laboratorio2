@@ -49,6 +49,7 @@ namespace Formulario
         {
             Queue<Pedido> pedidosEnCola = Local.pedidosEnCola;
             Queue<Pedido> pedidosEnPreparacion = Local.pedidosEnPreparacion;
+            Queue<Pedido> pedidosANotfiicar = new Queue<Pedido>();
 
             try
             {
@@ -97,6 +98,11 @@ namespace Formulario
                             {
                                 case Pedido.EEstado.Entregado:
                                     aux.BackColor = Color.Green;
+                                    if(item.delivery)
+                                    {
+                                        if (!pedidosANotfiicar.Contains(item)) 
+                                            pedidosANotfiicar.Enqueue(item);
+                                    }
                                 break;
                                 case Pedido.EEstado.Preparacion:
                                     aux.BackColor = Color.Cyan;
@@ -113,6 +119,20 @@ namespace Formulario
 
 
                         }
+                        if(pedidosANotfiicar.Count>0)
+                        {
+                            Pedido p = pedidosANotfiicar.Peek();
+
+                            MessageBox.Show("El pedido " + p.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
+                        }
+                       
+
+                        //foreach (Pedido item in pedidosANotfiicar)
+                        //{
+                        //    MessageBox.Show("El pedido " + item.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
+                        //    break;
+                        //}
+                        //pedidosANotfiicar.Clear();
                     });
                 }
                 else
@@ -126,6 +146,11 @@ namespace Formulario
                         {
                             case Pedido.EEstado.Entregado:
                                 aux.BackColor = Color.Green;
+                                if (item.delivery)
+                                {
+                                    if(!pedidosANotfiicar.Contains(item))
+                                    pedidosANotfiicar.Enqueue(item);
+                                }
                                 break;
                             case Pedido.EEstado.Preparacion:
                                 aux.BackColor = Color.Cyan;
@@ -140,9 +165,15 @@ namespace Formulario
                         aux.SubItems.Add(item.estadoPedido.ToString());
                         lsvPedidosEnPreparacion.Items.Add(aux);
 
-
-
                     }
+
+                    //foreach (Pedido item in pedidosANotfiicar)
+                    //{
+                    //    MessageBox.Show("El pedido " + item.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
+                    //    break;
+                    //}
+
+                    //pedidosANotfiicar.Clear();
                 }
 
 

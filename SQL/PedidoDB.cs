@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using EntidadesProducto;
+﻿using EntidadesProducto;
 using Metodos_de_extension;
+using System;
+using System.Data.SqlClient;
 
 namespace SQL
 {
@@ -44,9 +40,6 @@ namespace SQL
                 command.Parameters.Add(new SqlParameter("@direccion", nuevoPedido.direccionDeEntrega.ToString()));
                 command.Parameters.Add(new SqlParameter("@delivery", nuevoPedido.delivery.Convert()));
                 command.Parameters.Add(new SqlParameter("@estado", nuevoPedido.estadoPedido.ToString()));
-
-
-
 
                 sqlConn.Open();
                 int retorno = command.ExecuteNonQuery();

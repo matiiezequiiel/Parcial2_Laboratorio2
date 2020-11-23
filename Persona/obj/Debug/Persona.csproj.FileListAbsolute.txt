@@ -18,3 +18,23 @@ C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Persona\bin\Debug\SQL.dll
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Persona\bin\Debug\Metodos de extension.dll
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Persona\bin\Debug\SQL.pdb
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Persona\bin\Debug\Metodos de extension.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Persona.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Persona.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\AguirreMatias2D_2P.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\LoremNET.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Producto.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\SQL.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Archivos.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Excepciones.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Metodos de extension.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\AguirreMatias2D_2P.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Producto.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\SQL.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Archivos.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Excepciones.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Metodos de extension.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.pdb

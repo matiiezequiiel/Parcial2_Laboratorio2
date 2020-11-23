@@ -6,3 +6,11 @@ C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Producto\obj\Debug\Produc
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Producto\obj\Debug\Producto.csprojAssemblyReference.cache
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Producto\bin\Debug\LoremNET.dll
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Producto\obj\Debug\Producto.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\bin\Debug\Producto.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\bin\Debug\Producto.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\bin\Debug\LoremNET.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\obj\Debug\Producto.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\obj\Debug\Producto.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\obj\Debug\Producto.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Producto\obj\Debug\Producto.pdb

@@ -10,3 +10,15 @@ C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.csproj.
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.csproj.CopyComplete
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.dll
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\SQL\obj\Debug\SQL.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\SQL.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\SQL.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\LoremNET.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\Metodos de extension.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\Producto.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\Metodos de extension.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\bin\Debug\Producto.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\obj\Debug\SQL.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\obj\Debug\SQL.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\obj\Debug\SQL.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\SQL\obj\Debug\SQL.pdb

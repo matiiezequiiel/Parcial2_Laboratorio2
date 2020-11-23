@@ -6,3 +6,11 @@ C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.pdb
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\bin\Debug\LoremNET.dll
 C:\Users\maguirre\source\repos\Parcial_2_Laboratorio_2\Metodos de extension\obj\Debug\Metodos de extension.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\bin\Debug\Metodos de extension.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\bin\Debug\Metodos de extension.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\bin\Debug\LoremNET.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\obj\Debug\Metodos de extension.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\obj\Debug\Metodos de extension.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\obj\Debug\Metodos de extension.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\obj\Debug\Metodos de extension.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Metodos de extension\obj\Debug\Metodos de extension.pdb
