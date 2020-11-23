@@ -3,13 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EntidadesProducto;
-using AguirreMatias2D_2P;
 using System.Threading;
 using LoremNET;
-using SQL;
 
-namespace Persona
+namespace Entidades
 {
     public class Empleado : Persona
     {

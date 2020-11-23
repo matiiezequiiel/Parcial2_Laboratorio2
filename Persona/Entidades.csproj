@@ -44,27 +44,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cliente.cs" />
-    <Compile Include="Empleado.cs" />
-    <Compile Include="Persona.cs" />
+    <Compile Include="Excepciones\ArchivoException.cs" />
+    <Compile Include="Personas\Cliente.cs" />
+    <Compile Include="Personas\Empleado.cs" />
+    <Compile Include="Producto\Hamburguesa.cs" />
+    <Compile Include="Archivos\IArchivo.cs" />
+    <Compile Include="Local\Local.cs" />
+    <Compile Include="Excepciones\LocalColapsadoException.cs" />
+    <Compile Include="Metodos de extension\MetodosDeExtension.cs" />
+    <Compile Include="Local\Pedido.cs" />
+    <Compile Include="SQL\PedidoDB.cs" />
+    <Compile Include="Excepciones\PedidosSinTerminarException.cs" />
+    <Compile Include="Personas\Persona.cs" />
+    <Compile Include="Producto\Postre.cs" />
+    <Compile Include="Producto\Producto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AguirreMatias2D_2P\AguirreMatias2D_2P.csproj">
-      <Project>{18697a38-2653-492e-b849-e6611777ac18}</Project>
-      <Name>AguirreMatias2D_2P</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Producto\Producto.csproj">
-      <Project>{1df343f1-4dc0-481a-8509-a8a9a37c46b5}</Project>
-      <Name>Producto</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SQL\SQL.csproj">
-      <Project>{84eb7156-9da7-43b8-954e-4104c5cb3126}</Project>
-      <Name>SQL</Name>
-    </ProjectReference>
+    <Compile Include="Archivos\Texto.cs" />
+    <Compile Include="Archivos\XML.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

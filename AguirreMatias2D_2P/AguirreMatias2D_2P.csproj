@@ -48,20 +48,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Archivos\Archivos.csproj">
-      <Project>{862faada-4eec-4e4a-a727-9c8d5b08eb02}</Project>
-      <Name>Archivos</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{114f8d20-1d49-4550-b376-7169a20fc150}</Project>
-      <Name>Excepciones</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Producto\Producto.csproj">
-      <Project>{1df343f1-4dc0-481a-8509-a8a9a37c46b5}</Project>
-      <Name>Producto</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

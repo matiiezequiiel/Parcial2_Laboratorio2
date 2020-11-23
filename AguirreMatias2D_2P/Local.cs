@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EntidadesProducto;
-using Archivos;
-using Excepciones;
+
 
 
 namespace AguirreMatias2D_2P

@@ -8,11 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using AguirreMatias2D_2P;
-using EntidadesProducto;
-using Persona;
-using Metodos_de_extension;
-using Excepciones;
+using Entidades;
 
 
 namespace Formulario

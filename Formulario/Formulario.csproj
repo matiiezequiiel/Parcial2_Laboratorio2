@@ -84,25 +84,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AguirreMatias2D_2P\AguirreMatias2D_2P.csproj">
-      <Project>{18697a38-2653-492e-b849-e6611777ac18}</Project>
-      <Name>AguirreMatias2D_2P</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{114f8d20-1d49-4550-b376-7169a20fc150}</Project>
-      <Name>Excepciones</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Metodos de extension\Metodos de extension.csproj">
-      <Project>{30ba197a-2a2a-46f4-b486-f91c3453d8b9}</Project>
-      <Name>Metodos de extension</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Persona\Persona.csproj">
+    <ProjectReference Include="..\Persona\Entidades.csproj">
       <Project>{c8657a14-572d-4456-af12-38698b24edab}</Project>
-      <Name>Persona</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Producto\Producto.csproj">
-      <Project>{1df343f1-4dc0-481a-8509-a8a9a37c46b5}</Project>
-      <Name>Producto</Name>
+      <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

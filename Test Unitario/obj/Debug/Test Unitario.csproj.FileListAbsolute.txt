@@ -1,0 +1,11 @@
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Test Unitario.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Test Unitario.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.pdb

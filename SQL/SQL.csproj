@@ -48,16 +48,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Metodos de extension\Metodos de extension.csproj">
-      <Project>{30ba197a-2a2a-46f4-b486-f91c3453d8b9}</Project>
-      <Name>Metodos de extension</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Producto\Producto.csproj">
-      <Project>{1df343f1-4dc0-481a-8509-a8a9a37c46b5}</Project>
-      <Name>Producto</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

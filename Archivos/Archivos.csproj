@@ -50,12 +50,6 @@
     <Compile Include="XML.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{114f8d20-1d49-4550-b376-7169a20fc150}</Project>
-      <Name>Excepciones</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
