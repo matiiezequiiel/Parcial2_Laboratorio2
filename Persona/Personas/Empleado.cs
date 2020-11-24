@@ -1,21 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
 using LoremNET;
+using System.Windows.Forms;
+
+
+
 
 namespace Entidades
 {
-    public delegate string AvisoEntrega(object o);
-    public class Empleado : Persona
+    public class Empleado : Persona 
     {
         #region Atributos
 
         public enum EPuesto {Parrilla,Cocinero };
         EPuesto puesto;
-        public event AvisoEntrega Aviso;
 
         #endregion
 
@@ -29,12 +27,9 @@ namespace Entidades
         {
             Random rdm = new Random(DateTime.Now.Millisecond);
             this.puesto =(EPuesto) rdm.Next(0, 2);
-            Aviso += Local.PedidoEntregadoEnDomicilio;
         }
 
        
-
-
         #endregion
 
         #region Metodos
@@ -89,7 +84,7 @@ namespace Entidades
                 pedidoPendiente.estadoPedido = Pedido.EEstado.Entrega;
                 Local.GenerarTicketVenta(pedidoPendiente);
                 Thread.Sleep(5000);
-                Aviso.Invoke(pedidoPendiente);
+                MessageBox.Show("El pedido " + pedidoPendiente.codigoPedido + " fue entregado correctamente en el domicilio");
                 pedidoPendiente.estadoPedido = Pedido.EEstado.Entregado;
                
             }
@@ -106,7 +101,8 @@ namespace Entidades
 
         }
 
-       
+
+
 
         #endregion
     }

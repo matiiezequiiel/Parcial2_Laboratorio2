@@ -1,12 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
 
@@ -14,11 +9,10 @@ using Entidades;
 namespace Formulario
 {
     delegate void miDelegado();
-    public partial class PantallaVentas : Form
+    public partial class PantallaVentas : Form 
     {
         List<Thread> hiloEmpleadosA = new List<Thread>();
         Thread hiloActualizarListas;
-        Thread hiloSeguimientoPedidos;
         event miDelegado PedidosPendientes;
 
         public PantallaVentas()
@@ -263,6 +257,5 @@ namespace Formulario
             }
         }
 
-      
     }
 }
