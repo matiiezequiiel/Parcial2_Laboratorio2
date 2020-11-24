@@ -32,6 +32,16 @@ namespace Entidades
 
         #region Metodos
 
+        public static string PedidoEntregadoEnDomicilio(object a)
+        {
+            Pedido p = (Pedido)a;
+
+            return "El pedido "+ p.codigoPedido+ " fue entregado";
+
+
+        
+        }
+
         /// <summary>
         /// Genera un nro de pedido ALFABETICO aleatorio de 3 letras.
         /// </summary>

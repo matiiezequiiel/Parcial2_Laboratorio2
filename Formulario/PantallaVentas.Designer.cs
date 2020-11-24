@@ -52,7 +52,7 @@
             this.columnaDelivery});
             this.lsvPedidosEnCola.HideSelection = false;
             this.lsvPedidosEnCola.Location = new System.Drawing.Point(25, 76);
-            this.lsvPedidosEnCola.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.lsvPedidosEnCola.Margin = new System.Windows.Forms.Padding(2);
             this.lsvPedidosEnCola.Name = "lsvPedidosEnCola";
             this.lsvPedidosEnCola.Size = new System.Drawing.Size(446, 414);
             this.lsvPedidosEnCola.TabIndex = 0;
@@ -84,7 +84,7 @@
             this.columanEstado});
             this.lsvPedidosEnPreparacion.HideSelection = false;
             this.lsvPedidosEnPreparacion.Location = new System.Drawing.Point(537, 76);
-            this.lsvPedidosEnPreparacion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.lsvPedidosEnPreparacion.Margin = new System.Windows.Forms.Padding(2);
             this.lsvPedidosEnPreparacion.Name = "lsvPedidosEnPreparacion";
             this.lsvPedidosEnPreparacion.Size = new System.Drawing.Size(445, 420);
             this.lsvPedidosEnPreparacion.TabIndex = 1;
@@ -115,7 +115,7 @@
             // 
             this.btnNuevoPedido.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.792F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNuevoPedido.Location = new System.Drawing.Point(127, 509);
-            this.btnNuevoPedido.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnNuevoPedido.Margin = new System.Windows.Forms.Padding(2);
             this.btnNuevoPedido.Name = "btnNuevoPedido";
             this.btnNuevoPedido.Size = new System.Drawing.Size(208, 30);
             this.btnNuevoPedido.TabIndex = 2;
@@ -157,7 +157,7 @@
             this.Controls.Add(this.lsvPedidosEnPreparacion);
             this.Controls.Add(this.lsvPedidosEnCola);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "PantallaVentas";
             this.Text = "Sistema de ventas";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.PantallaVentas_FormClosing);

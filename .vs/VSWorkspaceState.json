@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Persona",
+    "\\Producto",
+    "\\Test Unitario"
   ],
   "PreviewInSolutionExplorer": false
 }

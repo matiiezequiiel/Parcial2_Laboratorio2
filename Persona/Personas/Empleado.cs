@@ -8,12 +8,14 @@ using LoremNET;
 
 namespace Entidades
 {
+    public delegate string AvisoEntrega(object o);
     public class Empleado : Persona
     {
         #region Atributos
 
         public enum EPuesto {Parrilla,Cocinero };
         EPuesto puesto;
+        public event AvisoEntrega Aviso;
 
         #endregion
 
@@ -27,7 +29,10 @@ namespace Entidades
         {
             Random rdm = new Random(DateTime.Now.Millisecond);
             this.puesto =(EPuesto) rdm.Next(0, 2);
+            Aviso += Local.PedidoEntregadoEnDomicilio;
         }
+
+       
 
 
         #endregion
@@ -84,6 +89,7 @@ namespace Entidades
                 pedidoPendiente.estadoPedido = Pedido.EEstado.Entrega;
                 Local.GenerarTicketVenta(pedidoPendiente);
                 Thread.Sleep(5000);
+                Aviso.Invoke(pedidoPendiente);
                 pedidoPendiente.estadoPedido = Pedido.EEstado.Entregado;
                
             }

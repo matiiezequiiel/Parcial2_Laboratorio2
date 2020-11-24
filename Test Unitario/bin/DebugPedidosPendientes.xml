@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPedido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pedido>
+    <codigoPedido>CBA</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Doble</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Helado</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>B</direccionDeEntrega>
+    <delivery>false</delivery>
+    <estadoPedido>Preparacion</estadoPedido>
+  </Pedido>
+  <Pedido>
+    <codigoPedido>CBA</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Doble</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Helado</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>B</direccionDeEntrega>
+    <delivery>false</delivery>
+    <estadoPedido>Preparacion</estadoPedido>
+  </Pedido>
+  <Pedido>
+    <codigoPedido>CBA</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Doble</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Helado</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>B</direccionDeEntrega>
+    <delivery>false</delivery>
+    <estadoPedido>Preparacion</estadoPedido>
+  </Pedido>
+  <Pedido>
+    <codigoPedido>CBA</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Doble</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Helado</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>B</direccionDeEntrega>
+    <delivery>false</delivery>
+    <estadoPedido>Preparacion</estadoPedido>
+  </Pedido>
+  <Pedido>
+    <codigoPedido>CBA</codigoPedido>
+    <pedido>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Doble</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Helado</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+      <Producto xsi:type="Hamburguesa">
+        <precio>100</precio>
+        <tipo>Simple</tipo>
+      </Producto>
+      <Producto xsi:type="Postre">
+        <precio>100</precio>
+        <tipo>Flan</tipo>
+      </Producto>
+    </pedido>
+    <direccionDeEntrega>B</direccionDeEntrega>
+    <delivery>false</delivery>
+    <estadoPedido>Preparacion</estadoPedido>
+  </Pedido>
+</ArrayOfPedido>

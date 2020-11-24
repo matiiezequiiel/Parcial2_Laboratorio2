@@ -17,8 +17,8 @@ namespace Formulario
     public partial class PantallaVentas : Form
     {
         List<Thread> hiloEmpleadosA = new List<Thread>();
-        Thread hiloEmpleados = new Thread(Empleado.Cocinar);
         Thread hiloActualizarListas;
+        Thread hiloSeguimientoPedidos;
         event miDelegado PedidosPendientes;
 
         public PantallaVentas()
@@ -33,13 +33,35 @@ namespace Formulario
             PedidosPendientes += EmpezarACocinar;
          
             hiloEmpleadosA.Add(new Thread(Empleado.Cocinar));
-            if(Local.Leer())
+            if (Local.Leer())
             {
                 PedidosPendientes.Invoke();
             }
 
+        }
+
+        public void SeguirPedidosEntrega()
+        {
+           
+            Queue<Pedido> auxPedido=new Queue<Pedido>();
+
+            foreach (Pedido item in Local.pedidosEnPreparacion)
+            {
+                if(item.estadoPedido == Pedido.EEstado.Entregado && item.delivery )
+                {
+                    if(!auxPedido.Contains(item))
+                    auxPedido.Enqueue(item);
+                }
+            }
+            
+            if (auxPedido.Count > 0)
+            {
+                Pedido p = auxPedido.Dequeue();
+                MessageBox.Show("El pedido " +p.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
+            }
 
         }
+
 
         public void RefrescarListas(object segundos)
         {
@@ -94,11 +116,6 @@ namespace Formulario
                             {
                                 case Pedido.EEstado.Entregado:
                                     aux.BackColor = Color.Green;
-                                    if(item.delivery)
-                                    {
-                                        if (!pedidosANotfiicar.Contains(item)) 
-                                            pedidosANotfiicar.Enqueue(item);
-                                    }
                                 break;
                                 case Pedido.EEstado.Preparacion:
                                     aux.BackColor = Color.Cyan;
@@ -115,20 +132,8 @@ namespace Formulario
 
 
                         }
-                        if(pedidosANotfiicar.Count>0)
-                        {
-                            Pedido p = pedidosANotfiicar.Peek();
-
-                            MessageBox.Show("El pedido " + p.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
-                        }
                        
-
-                        //foreach (Pedido item in pedidosANotfiicar)
-                        //{
-                        //    MessageBox.Show("El pedido " + item.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
-                        //    break;
-                        //}
-                        //pedidosANotfiicar.Clear();
+                       
                     });
                 }
                 else
@@ -142,11 +147,6 @@ namespace Formulario
                         {
                             case Pedido.EEstado.Entregado:
                                 aux.BackColor = Color.Green;
-                                if (item.delivery)
-                                {
-                                    if(!pedidosANotfiicar.Contains(item))
-                                    pedidosANotfiicar.Enqueue(item);
-                                }
                                 break;
                             case Pedido.EEstado.Preparacion:
                                 aux.BackColor = Color.Cyan;
@@ -163,18 +163,11 @@ namespace Formulario
 
                     }
 
-                    //foreach (Pedido item in pedidosANotfiicar)
-                    //{
-                    //    MessageBox.Show("El pedido " + item.codigoPedido + " fue entregado satisfactoriamente en el domicilio.");
-                    //    break;
-                    //}
-
-                    //pedidosANotfiicar.Clear();
                 }
 
 
             }
-            catch
+            catch(Exception)
             {
 
             }
@@ -269,5 +262,7 @@ namespace Formulario
 
             }
         }
+
+      
     }
 }

@@ -1,4 +1,3 @@
-C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.dll
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Persona.pdb
@@ -6,3 +5,4 @@ C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Pers
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\Persona.pdb
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\bin\Debug\LoremNET.dll
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Persona\obj\Debug\Entidades.csprojAssemblyReference.cache

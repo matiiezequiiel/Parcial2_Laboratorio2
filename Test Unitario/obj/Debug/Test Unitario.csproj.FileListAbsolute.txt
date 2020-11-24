@@ -9,3 +9,12 @@ C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debu
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.csproj.CopyComplete
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.dll
 C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\obj\Debug\Test Unitario.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Persona.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\LoremNET.dll
+C:\Users\matii\Desktop\PROYECTOS\C#\Parcial2_Laboratorio2\Test Unitario\bin\Debug\Persona.pdb
